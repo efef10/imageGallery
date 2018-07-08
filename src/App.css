@@ -1,5 +1,6 @@
-label {
+.label {
   cursor: pointer;
+  width:100%;
   /* Style as you please, it will become the visible UI component. */
 }
 
@@ -20,12 +21,6 @@ input[type="text"]{
   display:inline;
 }
 
-fa{
-  background-color: yellow;
-  color:red;
-  width:50px;
-  display:block;
-}
 
 li{
   list-style-type: none;

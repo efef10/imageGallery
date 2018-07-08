@@ -1,5 +1,11 @@
 img{
-    width:270px;
+    /*width:270px;*/
+    width:20%;
     height:180px;
-    padding:5px;
+    padding:10px;
+    box-sizing: border-box;
+}
+
+ul{
+    padding-left:0;
 }
