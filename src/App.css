@@ -1,7 +1,6 @@
 .label {
   cursor: pointer;
   width:100%;
-  /* Style as you please, it will become the visible UI component. */
 }
 
 #upload-photo {
